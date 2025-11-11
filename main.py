@@ -82,7 +82,7 @@ def main():
                 elif t_choice == "4":
                     table = input("Enter table name: ").strip()
                     if not table:
-                        print("❌ Table name cannot be empty.")
+                        print("Table name cannot be empty.")
                         continue
 
                     df = read_table_(table)
@@ -102,7 +102,7 @@ def main():
                 elif t_choice == "5":
                     table = input("Enter table name: ").strip()
                     if not table:
-                        print("❌ Table name cannot be empty.")
+                        print("Table name cannot be empty.")
                         continue
 
                     df = read_table_(table)
