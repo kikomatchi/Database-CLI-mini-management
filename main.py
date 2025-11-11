@@ -16,8 +16,6 @@ def main_menu():
     print("3. Statistics & Summary")
     print("4. Visualization")
     print("0. Exit")
-
-
 def table_menu():
     print("\n=== TABLE MANAGEMENT ===")
     print("1. Show available tables")
@@ -28,8 +26,6 @@ def table_menu():
     print("6. Insert new row")
     print("7. Update row")
     print("0. Back")
-
-
 def statistics_menu():
     print("\n=== STATISTICS MENU ===")
     print("1. Overview")
@@ -38,8 +34,6 @@ def statistics_menu():
     print("4. Top Categories")
     print("5. Group Statistics")
     print("0. Back")
-
-
 def visualization_menu():
     print("\n=== VISUALIZATION MENU ===")
     print("1. Histogram")
@@ -47,8 +41,6 @@ def visualization_menu():
     print("3. Category Distribution")
     print("4. Group Statistics")
     print("0. Back")
-
-
 # =======================
 # MAIN APP LOGIC
 # =======================
