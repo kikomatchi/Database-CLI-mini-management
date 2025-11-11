@@ -4,8 +4,6 @@ from read_table import read_table_, view_table, search_table
 from import_data import import_csv_to_table
 from show_statistic import show_correlation, show_overview, missing_summary, top_categories, group_stats
 from visualization import plot_histogram, plot_category_distribution, plot_boxplot, plot_group_statistics
-
-
 # =======================
 # MENU DEFINITIONS
 # =======================
